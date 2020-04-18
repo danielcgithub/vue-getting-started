@@ -1,10 +1,10 @@
 # Setup
-Install node
-Install npm
-npm install -g @vue/cli
-vue create vue-js-client-crud
-npm install vue-router
-npm install axios
+Install node  
+Install npm  
+npm install -g @vue/cli  
+vue create vue-js-client-crud  
+npm install vue-router  
+npm install axios  
 
 
 # vue-js-client-crud
